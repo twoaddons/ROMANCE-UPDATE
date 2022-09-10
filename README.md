@@ -9,9 +9,9 @@
 </item> 
    
     <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] Amor de Redenção [/COLOR][/B][COLOR BLUE]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CWRSO3QZLKTZ2AHAJ3QZRPSINOW6UGCR</link>
+<thumbnail>https://abutretorrents.com/imagens/amor-de-redencao-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
 </item> 
